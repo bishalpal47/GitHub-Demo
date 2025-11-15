@@ -1,0 +1,4 @@
+Hello Students,
+This is your teacher.
+This repo is for practicing the process of working on github - forking repo, cloning repo, creating branches, making changes in code, pushing changes and finally making a Pull request.
+So, off you go~
